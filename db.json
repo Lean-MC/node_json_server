@@ -1,0 +1,51 @@
+{
+  "alumno": [
+    {
+      "id": "e334",
+      "nombre": "leandro",
+      "apellido": "maciel",
+      "lenguajes": [
+        {
+          "nombre": "javascript"
+        },
+        {
+          "nombre": "react"
+        },
+        {
+          "nombre": "nodejs"
+        },
+        {
+          "nombre": "CSS3"
+        }
+      ]
+    }
+  ],
+  "soporte": [
+    {
+      "nombre": "amoshita",
+      "apellido": "dushevskyy",
+      "edad": "22",
+      "id": "2fbb"
+    },
+    {
+      "nombre": "UBU",
+      "apellido": "dushevskyy Maciel",
+      "edad": "3",
+      "id": "beba"
+    }
+  ],
+  "hobbies": [
+    {
+      "nombre": "cocina",
+      "nivel": "muy bien",
+      "tiempo": "desde los 16 años",
+      "id": "5285"
+    },
+    {
+      "nombre": "videojuegos",
+      "nivel": "avanzado",
+      "tiempo": "desde que nacio",
+      "id": "5728"
+    }
+  ]
+}
